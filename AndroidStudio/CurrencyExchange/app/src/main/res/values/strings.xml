@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Currency Exchange</string>
+    <string name="currency_converter">Конвертер валют</string>
+    <string name="amount">Сумма</string>
+    <string name="enter_amount">Введите сумму</string>
+    <string name="from_currency">Из валюты</string>
+    <string name="to_currency">В валюту</string>
+    <string name="convert">Конвертировать</string>
+    <string name="conversion_result">Результат конвертации</string>
+    <string name="error_empty_amount">Введите сумму</string>
+    <string name="error_network">Ошибка сети. Проверьте подключение к интернету</string>
+    <string name="error_conversion">Ошибка конвертации</string>
+
+    <!-- Валюты -->
+    <string-array name="currencies">
+        <item>USD - Доллар США</item>
+        <item>EUR - Евро</item>
+        <item>RUB - Российский рубль</item>
+        <item>GBP - Британский фунт</item>
+        <item>JPY - Японская йена</item>
+        <item>CNY - Китайский юань</item>
+        <item>CHF - Швейцарский франк</item>
+        <item>CAD - Канадский доллар</item>
+        <item>AUD - Австралийский доллар</item>
+        <item>KZT - Казахский тенге</item>
+    </string-array>
+
+    <string-array name="currency_codes">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>RUB</item>
+        <item>GBP</item>
+        <item>JPY</item>
+        <item>CNY</item>
+        <item>CHF</item>
+        <item>CAD</item>
+        <item>AUD</item>
+        <item>KZT</item>
+    </string-array>
+</resources>
